@@ -62,7 +62,7 @@ const faqs = [
   },
 ];
 
-const LINK = 'alfabank://longread?endpoint=v1/adviser/longreads/60683';
+const LINK = 'alfabank://longread?endpoint=v1/adviser/longreads/60715';
 
 if (LS.getItem(LSKeys.ShowThx, false)) {
   window.location.replace(LINK);
